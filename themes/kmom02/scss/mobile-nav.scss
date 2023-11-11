@@ -1,0 +1,54 @@
+@media (max-width: 767px) {
+    .header {
+        flex-direction: column;
+    }
+
+    .nav ul {
+        flex-direction: column;
+        padding-bottom: 1em;
+    }
+
+    .nav ul li {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav ul li a {
+        display: block;
+        padding: 0.5em 0;
+    }
+
+    .js .nav-toggle {
+        cursor: pointer;
+        display: block;
+        float: right;
+        font-size: 1.5rem;
+        line-height: 2em;
+        margin: 0.6667em 0;
+        text-align: center;
+        width: 2em;
+        
+    }
+}
+
+.nav ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 1em 0;
+    
+}
+
+.nav ul li {
+    padding: 0 1em;
+}
+
+.nav a {
+    color: #333;
+}
+
+.nav-toggle {
+    color: #333;
+    display: none;
+}
