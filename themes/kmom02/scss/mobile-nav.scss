@@ -3,6 +3,12 @@
         flex-direction: column;
     }
 
+    .span1,
+    .span2,
+    .span3 {
+        grid-column: span 3;
+    }
+
     .nav ul {
         flex-direction: column;
         padding-bottom: 1em;
