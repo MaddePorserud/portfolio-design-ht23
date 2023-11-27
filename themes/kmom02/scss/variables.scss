@@ -1,5 +1,20 @@
-$font-color: #435e63;
-$font-alternative-color: #ffd99e;
-$accent-color: #2a384c;
-$background-color: #fff8ef;
-$background-alternative-color: #b9d5d8;
+$font-color: #414D61;
+$font-alternative-color: #614C34;
+$accent-color: #66571C;
+$background-color: #DED4AD;
+$background-alternative-color: #8DADE0;
+$border-color: #66571C;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Quicksand&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Lato', sans-serif;
+}

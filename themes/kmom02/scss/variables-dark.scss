@@ -1,0 +1,21 @@
+$font-color: #DE0AC9;
+$font-alternative-color: #006FE0;
+$accent-color: #BA8213;
+$background-color: #034661;
+$background-alternative-color: #1F2466;
+$border-color: #BA8213;
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@300&family=Roboto+Slab:wght@300&display=swap');
+
+
+* {
+    font-family: 'BioRhyme', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto Slab', serif;
+}

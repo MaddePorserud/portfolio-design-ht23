@@ -1,0 +1,14 @@
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables-dark';
+@import 'base';
+@import 'mobile-nav';
+@import 'blockquotes';
+@import 'code';
+@import 'technology';
+@import 'analys';
+@import 'footer';
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
