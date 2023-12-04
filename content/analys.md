@@ -9,15 +9,15 @@ Analys
 
 <div class="box span3">
 Colors
-<a href="analysis/01_colors">Läs mer>
+<a href="analysis/01_colors">Läs mer</a>
 </div>
 
 <div class="box span3">
 Load
-<a href="analysis/02_load">Läs mer>
+<a href="analysis/02_load">Läs mer</a>
 </div>
 
 <div class="box span3">
 Design Principles
-<a href="analysis/03_design_principles">Läs mer>
+<a href="analysis/03_design_principles">Läs mer</a>
 </div>

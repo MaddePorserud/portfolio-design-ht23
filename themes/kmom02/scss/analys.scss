@@ -1,14 +1,31 @@
 .blog img {
-    max-width: 30%;
     float: inline-start;
     padding: 5px;
-    max-height: 110px;
-}
-.blog h3 {
-    display:block;
+    max-height: 200px;
 }
 
-.blog table {
-    padding-top: 10px;
-    padding-bottom:10px;
+.blog h3 {
+    display:block-ruby;
+}
+
+.blog{ 
+    .table {
+        padding-top: 10px;
+        padding-bottom:10px;
+    }
+}
+
+.screendump {
+    display: grid;
+    gap: 1em 1em;
+    grid-template-columns: auto auto auto;
+}
+
+@media (max-width: 767px) {
+    .screendump {
+        grid-template-columns: auto;
+        gap: 1em;
+        justify-content:center;
+
+    }
 }

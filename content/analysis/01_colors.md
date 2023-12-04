@@ -1,7 +1,7 @@
 ---
 Title: Colors
 Description: Analysis of Colors
-Date: January 5, 2023
+Date: November 26, 2023
 Template: analys
 ---
 
@@ -23,14 +23,12 @@ Genom att använda utvecklarverktyget i google Chrome går det att utläsa typog
 
 Resultat
 -----------------------
+<div class="screendump">
+<img src="%assets_url%/img/coop.png" alt="coop.se">
+<img src="%assets_url%/img/ica.png" alt="ica.se">
+<img src="%assets_url%/img/lidl.png" alt="lidl.se">
 
-![coop.se](%assets_url%/img/coop.png)
-
-![ica.se](%assets_url%/img/ica.png)
-
-![lidl.se](%assets_url%/img/lidl.png)
-
-
+</div>
 
 
 ###Färger på de tre hemsidorna
