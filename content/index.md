@@ -10,5 +10,6 @@ Jag bor just nu utomlands och jobbar mindre än tidigare vilket gör det möjlig
 
 När jag inte pluggar eller jobbar så tycker jag det är väldigt härligt att äta och laga mat. När vi flyttade utomlands för snart ett år sedan torkade jag min surdeg för att kunna forsätta baka med den. Det tog några veckor att få tillbaka den i bra form men nu bakas det minst en gång i veckan.
 
-![En bild som symboliserar mig](%assets_url%/img/joakim-honkasalo-curious.jpeg)
+![En bild som symboliserar mig](%base_url%/image/joakim-honkasalo-curious.jpeg?w=1200)
+
 Photo by Joakim Honkasalo

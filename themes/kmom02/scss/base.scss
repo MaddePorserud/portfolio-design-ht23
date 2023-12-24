@@ -3,11 +3,13 @@ body {
     background-color: $background-color;
     margin-left: auto;
     margin-right: auto;
-    max-width: 90%;
+    max-width: 70%;
     
 }
 
-
+h2 {
+    padding-top: 1em;
+}
 
 * {
     color: $font-color;
@@ -15,9 +17,16 @@ body {
 
 img {
     display: block;
-    max-width: 100%;
+    max-width: 70%;
+    margin:auto;
+    border-radius: 3%;
+    margin-top:2em;
+
 }
 
+.logo img{
+    margin: initial;
+}
 
 .nav a {
     color: $font-alternative-color;

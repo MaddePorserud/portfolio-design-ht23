@@ -35,7 +35,7 @@ Resultat
 
 <div class="embed-container">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQS1fUH_HyAUfCdHNuGhK126KRASFJrgpGkVx2Nrbqzn5J3ljaJZZJN0YExbxDewpi4afnIgiE9pmgy/pubhtml?widget=true&amp;headers=false"></iframe>
-
+</div>
 
 
 Analys

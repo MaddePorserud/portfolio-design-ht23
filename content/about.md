@@ -10,13 +10,16 @@ Tekniker jag använder på sidan
 ------------------
 Fontawesome används på sidan för att få fram ikoner så som de på denna sida.
 
+
 <i class="fab fa-sass"></i> SASS & Stylint
 ----------------------
 Utöver det så är all styling skriven med hjälp av SASS där jag använder stylint för att kontrollera min SASS kod innan den omvandlas till CCS. För att säkerställa att min sida ser bra ut i olika webbläsare använder jag även normalize.css för att normalisera standardinställningarna i webbläsaren.
 
+
 Pico
 --------
 För att få hjälp att skapa en snygg sida och underlätta kodandet använder jag också Content Management Systemet Pico. Mina templates skriver jag i twig.
+
 
 <i class="fab fa-github"></i> Github
 ---------

@@ -5,7 +5,7 @@
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Quicksand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme:wght@300&family=Roboto+Slab:wght@300&display=swap");
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -309,7 +309,7 @@ template {
 }
 
 * {
-  font-family: "Quicksand", sans-serif;
+  font-family: "BioRhyme", serif;
 }
 
 h1,
@@ -318,11 +318,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lato", sans-serif;
+  font-family: "Roboto Slab", serif;
 }
 
 body {
-  background-color: #DED4AD;
+  background-color: #034661;
   margin-left: auto;
   margin-right: auto;
   max-width: 80%;
@@ -333,7 +333,7 @@ h2 {
 }
 
 * {
-  color: #414D61;
+  color: #fef8f0;
 }
 
 img {
@@ -343,7 +343,7 @@ img {
 }
 
 .nav a {
-  color: #614C34;
+  color: #cbbb61;
 }
 
 .nav ul {
@@ -449,7 +449,7 @@ img {
     margin: 0.6667em 0;
     text-align: center;
     width: 2em;
-    color: #66571C;
+    color: #BA8213;
   }
 }
 .nav ul {
@@ -464,7 +464,7 @@ img {
 }
 
 .nav a {
-  color: #614C34;
+  color: #cbbb61;
 }
 
 .nav-toggle {
@@ -476,15 +476,15 @@ img {
 }
 
 blockquote {
-  border-left: 0.5em solid #66571C;
+  border-left: 0.5em solid #BA8213;
   font-style: italic;
   margin-left: 1em;
   padding-left: 1em;
 }
 
 code {
-  background: #8DADE0;
-  border: 1px solid #66571C;
+  background: #1F2466;
+  border: 1px solid #BA8213;
   border-radius: 0.3em;
   font-family: monospace;
   font-size: 0.85rem;
@@ -494,8 +494,8 @@ code {
 }
 
 pre {
-  background: #8DADE0;
-  border: 1px solid #66571C;
+  background: #1F2466;
+  border: 1px solid #BA8213;
   border-radius: 0.3em;
   padding: 0 1em;
 }
@@ -557,7 +557,7 @@ pre code {
 .blog,
 .side-bar {
   padding: 1em;
-  border: 3px dotted #66571C;
+  border: 3px dotted #BA8213;
 }
 
 .blog {
@@ -574,7 +574,7 @@ pre code {
 }
 
 .box {
-  border: 2px solid #66571C;
+  border: 2px solid #BA8213;
 }
 
 @media (max-width: 767px) {
